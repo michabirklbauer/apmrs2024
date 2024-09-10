@@ -25,6 +25,10 @@ Identifying crosslinks from non-cleavable reagents requires smart handling of th
 
 We compared MS Annika 3.0 to other commonly used cross-linking search engines and show that MS Annika is on par or better in terms of crosslink identifications while providing a more robust false discovery rate (FDR) estimation, reporting 75% less false positives than competing tools on average. Most importantly we could show that MS Annika is able to accurately identify more than 430 unique crosslinks at 1% estimated FDR from an experiment with *C. elegans* nuclei, using the full *C. elegans* proteome of over 26 000 proteins for search.
 
+## Publication
+
+The pre-print for this research is available at [bioRxiv](https://doi.org/10.1101/2024.09.03.610962).
+
 ## Contact
 
 - [micha.birklbauer@gmail.com](mailto:micha.birklbauer@gmail.com)
