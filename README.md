@@ -31,7 +31,7 @@ The pre-print for this research is available at [bioRxiv](https://doi.org/10.110
 
 ## Blog Post
 
-The accompanying blog post can be read here [michabirklbauer.me](https://michabirklbauer.me/blog/matrixxlms).
+The accompanying blog post can be read at [michabirklbauer.me](https://michabirklbauer.me/blog/matrixxlms).
 
 ## Contact
 
