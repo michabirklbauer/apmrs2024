@@ -29,6 +29,10 @@ We compared MS Annika 3.0 to other commonly used cross-linking search engines an
 
 The pre-print for this research is available at [bioRxiv](https://doi.org/10.1101/2024.09.03.610962).
 
+## Blog Post
+
+The accompanying blog post can be read here [michabirklbauer.me](https://michabirklbauer.me/blog/matrixxlms).
+
 ## Contact
 
 - [micha.birklbauer@gmail.com](mailto:micha.birklbauer@gmail.com)
